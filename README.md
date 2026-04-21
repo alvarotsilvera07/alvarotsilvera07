@@ -5,11 +5,14 @@ Enfocado en transformar ideas en aplicaciones funcionales y centradas en el usua
 
 ---
 
-## 🚀 Proyectos en los que estoy trabajando
-* **[A la Pelotita! (Nibble)](https://github.com/alvarotsilvera07/Nibble-Web):** Sistema integral de gestión para complejos deportivos (Fútbol y Padel).
-* **ProTienda:** Plataforma de e-commerce con integración de pedidos vía WhatsApp.
-* **PRISM:** Emprendimiento de soluciones digitales personalizadas para pequeñas empresas.
+## 🚀 Proyectos Destacados
 
+* **[A la Pelotita! (Nibble)](https://app.alapelotita.com.ar/)** | [Repo 🛠️](https://github.com/alvarotsilvera07/Nibble-Web)
+  * Sistema integral de gestión para complejos deportivos. (Next.js, PWA, Supabase).
+* **[ProTienda](https://protienda.vercel.app/)**
+  * Plataforma de e-commerce con catálogo dinámico e integración de pedidos vía WhatsApp.
+* **[PRISM Systems](https://prism-systems.vercel.app/)**
+  * Landing page de mi emprendimiento de soluciones digitales personalizadas.
 ---
 
 ## 🛠️ Tech Stack
