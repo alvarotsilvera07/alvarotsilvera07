@@ -1,7 +1,7 @@
 # Hi there! I'm Alvaro Silvera 👋
 
 ### Full Stack Developer | Systems Programming Student @ UNViMe
-Dedicado a transformar ideas en aplicaciones funcionales y centradas en el usuario. Actualmente profundizando en el ecosistema de React, TypeScript y Node.js para desarrollar proyectos con impacto directo en negocios locales.
+Enfocado en transformar ideas en aplicaciones funcionales y centradas en el usuario. Actualmente enfocado en el ecosistema de React, TypeScript y Node.js para desarrollar proyectos con impacto directo en negocios locales.
 
 ---
 
@@ -16,12 +16,17 @@ Dedicado a transformar ideas en aplicaciones funcionales y centradas en el usuar
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
-
 ---
 
 ## 📊 Estadísticas y Actividad
