@@ -1,18 +1,19 @@
 # Hi there! I'm Alvaro Silvera 👋
 
 ### Full Stack Developer | Systems Programming Student @ UNViMe
-Enfocado en transformar ideas en aplicaciones funcionales y centradas en el usuario. Actualmente enfocado en el ecosistema de React, TypeScript y Node.js para desarrollar proyectos con impacto directo en negocios locales.
+Dedicado a transformar ideas en aplicaciones funcionales y centradas en el usuario. Actualmente enfocado en el ecosistema de React, TypeScript y Node.js para desarrollar proyectos con impacto directo en negocios locales.
 
 ---
 
 ## 🚀 Proyectos Destacados
 
 * **[A la Pelotita! (Nibble)](https://app.alapelotita.com.ar/)** | [Repo 🛠️](https://github.com/alvarotsilvera07/Nibble-Web)
-  * Sistema integral de gestión para complejos deportivos. (Next.js, PWA, Supabase).
+  * Sistema integral de gestión para complejos deportivos (Fútbol y Padel). (Next.js, PWA, Supabase).
 * **[ProTienda](https://protienda.vercel.app/)**
   * Plataforma de e-commerce con catálogo dinámico e integración de pedidos vía WhatsApp.
 * **[PRISM Systems](https://prism-systems.vercel.app/)**
   * Landing page de mi emprendimiento de soluciones digitales personalizadas.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -46,6 +47,7 @@ Enfocado en transformar ideas en aplicaciones funcionales y centradas en el usua
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
 ---
 
 ## 📊 Estadísticas y Actividad
@@ -62,7 +64,7 @@ Enfocado en transformar ideas en aplicaciones funcionales y centradas en el usua
 
 ## 📫 Conecta conmigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/alvaro-silvera-6b32a5251/" target="_blank">
+  <a href="https://www.linkedin.com/in/alvaro-silvera-6b32a5251/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alvarotsilvera2@gmail.com">
