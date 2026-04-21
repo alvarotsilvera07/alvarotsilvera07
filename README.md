@@ -1,7 +1,7 @@
 # Hi there! I'm Alvaro Silvera 👋
 
 ### Full Stack Developer | Systems Programming Student @ UNViMe
-Dedicado a transformar ideas en aplicaciones funcionales y centradas en el usuario. Actualmente enfocado en el ecosistema de React, TypeScript y Node.js para desarrollar proyectos con impacto directo en negocios locales.
+Enfocado en transformar ideas en aplicaciones funcionales y centradas en el usuario. Actualmente enfocado en el ecosistema de React, TypeScript y Node.js para desarrollar proyectos con impacto directo en negocios locales.
 
 ---
 
