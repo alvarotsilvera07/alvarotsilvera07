@@ -60,16 +60,19 @@ Enfocado en transformar ideas en aplicaciones funcionales y centradas en el usua
 ## 📊 Estadísticas y Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarotsilvera07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estadísticas de Alvaro" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotsilvera07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Lenguajes más usados" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alvarotsilvera07&theme=tokyonight" alt="Estadísticas de Alvaro" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alvarotsilvera07&theme=tokyonight&hide_border=true" alt="Racha de Programación" />
+  <img src="https://streak-stats.demolab.com/?user=alvarotsilvera07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de Programación" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alvarotsilvera07/alvarotsilvera07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvarotsilvera07/alvarotsilvera07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvarotsilvera07/alvarotsilvera07/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/alvarotsilvera07/alvarotsilvera07/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
