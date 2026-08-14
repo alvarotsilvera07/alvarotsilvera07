@@ -48,22 +48,37 @@ Enfocado en transformar ideas en aplicaciones funcionales y centradas en el usua
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+### 🛠️ Herramientas & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
 ---
 
 ## 📊 Estadísticas y Actividad
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarotsilvera07&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Alvaro" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotsilvera07&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvarotsilvera07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Estadísticas de Alvaro" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarotsilvera07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Lenguajes más usados" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvarotsilvera07&theme=tokyonight&hide_border=true" alt="Racha de Programación" />
+  <img src="https://streak-stats.demolab.com/?user=alvarotsilvera07&theme=tokyonight&hide_border=true" alt="Racha de Programación" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alvarotsilvera07/alvarotsilvera07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ## 📫 Conecta conmigo
 <p align="left">
+  <a href="https://alvaro-silvera-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/alvaro-silvera-6b32a5251/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
