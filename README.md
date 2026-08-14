@@ -64,7 +64,7 @@ Enfocado en transformar ideas en aplicaciones funcionales y centradas en el usua
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alvarotsilvera07&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de Programación" />
+  <img src="https://streak-stats.demolab.com/?user=alvarotsilvera07&theme=tokyonight&hide_border=true&type=svg&v=2" alt="Racha de Programación" />
 </p>
 
 <p align="center">
