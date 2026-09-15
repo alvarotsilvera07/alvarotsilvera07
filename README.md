@@ -7,8 +7,12 @@ Enfocado en transformar ideas en aplicaciones funcionales y centradas en el usua
 
 ## 🚀 Proyectos Destacados
 
-* **[A la Pelotita! (Nibble)](https://app.alapelotita.com.ar/)** | [Repo 🛠️](https://github.com/alvarotsilvera07/Nibble-Web)
+* **[A la Pelotita! (Nibble)](https://app.alapelotita.com.ar/)** | [Repo 🛠️](https://github.com/Nibble-inc)
   * Sistema integral de gestión para complejos deportivos (Fútbol y Padel). (Next.js, PWA, Supabase).
+* **[Nibbot (Nibble)](https://nibbot.com.ar/)** | [Repo 🛠️](https://github.com/Nibble-inc)
+  * Asistente de WhatsApp que automatiza turnos, recordatorios y gestión de clientes para negocios de servicios, con dashboard de administración.
+* **[Nibble](https://nibble-web-lemon.vercel.app/)**
+  * Landing page de Desarrollo colaborativo en equipo orientado a la creación de software innovador y de calidad.
 * **[ProTienda](https://protienda.vercel.app/)**
   * Plataforma de e-commerce con catálogo dinámico e integración de pedidos vía WhatsApp.
 * **[PRISM Systems](https://prism-systems.vercel.app/)**
